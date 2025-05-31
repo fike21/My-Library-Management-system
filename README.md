@@ -1,5 +1,4 @@
-NAME                        ID NO
-FIKIRE TIBEBU             DBUR/0737/13
+NAME: FIKIRE TIBEBU    ID: DBUR/0737/13
   
   📚 My Library Management System
 ✨ Project Overview
